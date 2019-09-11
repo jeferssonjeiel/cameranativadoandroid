@@ -1,4 +1,4 @@
-# cameranativadoandroid
+# Camera Nativa do Android
 Veja como usar a câmera NATIVA do ANDROID com DELPHI.
 
 <b>Clique Aqui e Veja o vídeo do Tutorial:</b><br>
